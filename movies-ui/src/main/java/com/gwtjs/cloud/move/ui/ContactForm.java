@@ -1,4 +1,4 @@
-package com.gwtjs.cloud.move.ui.ui;
+package com.gwtjs.cloud.move.ui;
 
 import com.gwtjs.cloud.move.ui.models.User;
 import com.vaadin.data.fieldgroup.BeanFieldGroup;

@@ -15,7 +15,11 @@
     <packaging>jar</packaging>
 
     <properties>
+    	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+		<java.version>1.8</java.version>
         <docker.image.prefix>icustom</docker.image.prefix>
+		<docker.plugin.version>0.4.13</docker.plugin.version>
     </properties>
 
     <dependencies>

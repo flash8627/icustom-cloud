@@ -10,6 +10,7 @@ import com.gwtjs.cloud.user.data.domain.nodes.User;
 
 @RelationshipEntity(type="ACTION")
 public class Action {
+	
     @GraphId
     Long id;
 

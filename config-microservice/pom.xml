@@ -17,10 +17,12 @@
 
     <properties>
         <docker.image.prefix>icustom</docker.image.prefix>
+		<docker.plugin.version>0.4.13</docker.plugin.version>
         <start-class>com.gwtjs.cloud.service.ConfigApplication</start-class>
     </properties>
 
     <dependencies>
+    	
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter</artifactId>
